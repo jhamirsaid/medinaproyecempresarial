@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/org.glassfish.javax.json_1.0.4.v201311181159.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/org.eclipse.persistence.oracleddlparser_1.0.0.v20141020.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/org.eclipse.persistence.oracleddlparser.source_1.0.0.v20141020.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/org.eclipse.persistence.jpars_2.6.0.v20150309-bf26070.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/org.eclipse.persistence.jpars.source_2.6.0.v20150309-bf26070.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/org.eclipse.persistence.jpa.modelgen_2.6.0.v20150309-bf26070.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/org.eclipse.persistence.jpa.modelgen.source_2.6.0.v20150309-bf26070.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/jaxb-xjc_2.2.11.v201407311112.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/jaxb-core_2.2.11.v201407311112.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/javax.xml.bind_2.2.12.v201410011542.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/javax.wsdl_1.6.2.v201012040545.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/javax.validation_1.1.0.v201304101302.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/javax.servlet_2.4.0.v200806031604.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/javax.persistence_2.1.0.v201304241213.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/javax.persistence.source_2.1.0.v201304241213.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/javax.mail_1.4.0.v201005080615.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/eclipselink-dbwsutils.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/eclipselink.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/lib eclipselink/commonj.sdo_2.1.1.v201112051852.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/librerías JPA/librerías/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/librerías JPA/librerías/javassist-3.15.0-GA.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/librerías JPA/librerías/mysql-connector-java-5.1.21.jar"/>
+	<classpathentry kind="lib" path="D:/Desktop/librerías JPA/librerías/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
